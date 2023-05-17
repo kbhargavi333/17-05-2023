@@ -1,0 +1,100 @@
+*{
+    margin: 0%;   
+}
+div{
+    text-align: center;
+    background-color: grey;
+    color: white;
+    font-family: Gabriola;
+    font-size: 3rem;
+    
+}
+.logo{
+    display: inline;
+}
+span{
+    padding-left: 20%;
+}
+section{
+    background-color: rgb(183, 178, 178);
+}
+.heading{
+    font-size: 2rem;
+    color: white;
+    padding-top: 0%;
+}
+body section{
+    background-color: rgb(178, 175, 175);
+    height: 100%;
+}
+p{
+    font-size: 1.3rem;
+    color: white;
+    padding-left: 2%;
+}
+section img{
+    padding-right: 5%;
+}
+section h2{
+    padding-left: 40%;
+    padding-top: 4%;
+}
+section li{
+    padding-left: 40%;
+}
+
+section img{
+    margin-left: 5%;
+    margin-top: 3%;
+
+}
+.tay{
+    margin-top: 0%;
+}
+h3{
+    color: white;
+    font-size: 2rem;
+    margin-left: 40%;
+}
+section h2{
+    color: white;
+}
+section li{
+    color: white;
+}
+
+.tayimage{
+    height: 458px;
+    margin-top: -30%;
+    padding-left: -5%;
+    
+}
+
+.tayimage2{
+    height: 458px;
+    padding-left: 1%;
+}
+section{
+    width: 100%;
+}
+section img{
+    display: flex;
+    column-gap: 10%;
+    margin-top: 0%;
+}
+.heading1{
+    font-size: 2rem;
+    color: white;
+    margin-left: 1%;
+}
+.tay1{
+    align-items: end;
+    margin-top: 5%;
+    margin-left: 40%;
+}
+.para{
+    margin-left: 5%;
+}
+
+
+
